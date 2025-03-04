@@ -1,0 +1,6 @@
+pageObjects\student\StudentForm.class
+Main.class
+pageObjects\student\ConfirmationModal.class
+pageObjects\login\LoginForm.class
+pageObjects\login\ProfilePage.class
+pageObjects\PageObject.class
